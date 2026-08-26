@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/amarald3142/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/amarald3142/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/amarald3142/leetcode-solutions/tree/master/0542-01-matrix) |
 | [1020-number-of-enclaves](https://github.com/amarald3142/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1539-kth-missing-positive-number](https://github.com/amarald3142/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
@@ -40,23 +41,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/amarald3142/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/amarald3142/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/amarald3142/leetcode-solutions/tree/master/0542-01-matrix) |
 | [1020-number-of-enclaves](https://github.com/amarald3142/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/amarald3142/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/amarald3142/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/amarald3142/leetcode-solutions/tree/master/0542-01-matrix) |
 | [1020-number-of-enclaves](https://github.com/amarald3142/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/amarald3142/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/amarald3142/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/amarald3142/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/amarald3142/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/amarald3142/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/amarald3142/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 ## Sliding Window
 |  |
