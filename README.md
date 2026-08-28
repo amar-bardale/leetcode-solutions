@@ -128,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/amarald3142/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/amarald3142/leetcode-solutions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
