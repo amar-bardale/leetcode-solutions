@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/amarald3142/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1020-number-of-enclaves](https://github.com/amarald3142/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1539-kth-missing-positive-number](https://github.com/amarald3142/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/amarald3142/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/amarald3142/leetcode-solutions/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/amarald3142/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/amarald3142/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -142,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/amarald3142/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/amarald3142/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
