@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/amarald3142/leetcode-solutions/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/amarald3142/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/amarald3142/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/amarald3142/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/amarald3142/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/amarald3142/leetcode-solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/amarald3142/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/amarald3142/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/amarald3142/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/amarald3142/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/amarald3142/leetcode-solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/amarald3142/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/amarald3142/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/amarald3142/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/amarald3142/leetcode-solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/amarald3142/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/amarald3142/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/amarald3142/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
@@ -153,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amarald3142/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/amarald3142/leetcode-solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
