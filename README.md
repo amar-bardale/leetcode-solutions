@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/amarald3142/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/amarald3142/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/amarald3142/leetcode-solutions/tree/master/0542-01-matrix) |
+| [0743-network-delay-time](https://github.com/amarald3142/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/amarald3142/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/amarald3142/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1020-number-of-enclaves](https://github.com/amarald3142/leetcode-solutions/tree/master/1020-number-of-enclaves) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/amarald3142/leetcode-solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/amarald3142/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/amarald3142/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0743-network-delay-time](https://github.com/amarald3142/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/amarald3142/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/amarald3142/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1020-number-of-enclaves](https://github.com/amarald3142/leetcode-solutions/tree/master/1020-number-of-enclaves) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/amarald3142/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/amarald3142/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/amarald3142/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Graph Coloring
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/amarald3142/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0743-network-delay-time](https://github.com/amarald3142/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/amarald3142/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Bucket Sort
 |  |
@@ -176,5 +180,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/amarald3142/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/amarald3142/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/amarald3142/leetcode-solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
