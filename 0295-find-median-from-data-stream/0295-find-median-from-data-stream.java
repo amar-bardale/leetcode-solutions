@@ -1,0 +1,34 @@
+class MedianFinder {
+
+    PriorityQueue<Integer> left;
+    PriorityQueue<Integer> right;
+
+    public MedianFinder() {
+
+        // Max heap
+        left = new PriorityQueue<>((a, b) -> b - a);
+
+        // Min heap
+        right = new PriorityQueue<>();
+    }
+
+    public void addNum(int num) {
+
+        left.add(num);
+
+        right.add(left.poll());
+
+        if (right.size() > left.size()) {
+            left.add(right.poll());
+        }
+    }
+
+    public double findMedian() {
+
+        if (left.size() > right.size()) {
+            return left.peek();
+        }
+
+        return (left.peek() + right.peek()) / 2.0;
+    }
+}
