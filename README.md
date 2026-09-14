@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/amarald3142/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0355-design-twitter](https://github.com/amarald3142/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0387-first-unique-character-in-a-string](https://github.com/amarald3142/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/amarald3142/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0904-fruit-into-baskets](https://github.com/amarald3142/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/amarald3142/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0355-design-twitter](https://github.com/amarald3142/leetcode-solutions/tree/master/0355-design-twitter) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/amarald3142/leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Math
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/amarald3142/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [0355-design-twitter](https://github.com/amarald3142/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/amarald3142/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/amarald3142/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/amarald3142/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/amarald3142/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [0355-design-twitter](https://github.com/amarald3142/leetcode-solutions/tree/master/0355-design-twitter) |
 ## Data Stream
 |  |
 | ------- |
