@@ -144,11 +144,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/amarald3142/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/amarald3142/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1710-maximum-units-on-a-truck](https://github.com/amarald3142/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/amarald3142/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/amarald3142/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/amarald3142/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/amarald3142/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -195,8 +197,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amarald3142/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0295-find-median-from-data-stream](https://github.com/amarald3142/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 ## Manacher
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amarald3142/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/amarald3142/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/amarald3142/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
