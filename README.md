@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/amarald3142/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0387-first-unique-character-in-a-string](https://github.com/amarald3142/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/amarald3142/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0575-distribute-candies](https://github.com/amarald3142/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0904-fruit-into-baskets](https://github.com/amarald3142/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amarald3142/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/amarald3142/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/amarald3142/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/amarald3142/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/amarald3142/leetcode-solutions/tree/master/0542-01-matrix) |
+| [0575-distribute-candies](https://github.com/amarald3142/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0904-fruit-into-baskets](https://github.com/amarald3142/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1020-number-of-enclaves](https://github.com/amarald3142/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1539-kth-missing-positive-number](https://github.com/amarald3142/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
