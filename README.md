@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amarald3142/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/amarald3142/leetcode-solutions/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/amarald3142/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/amarald3142/leetcode-solutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/amarald3142/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/amarald3142/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/amarald3142/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/amarald3142/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/amarald3142/leetcode-solutions/tree/master/0542-01-matrix) |
 | [1020-number-of-enclaves](https://github.com/amarald3142/leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/amarald3142/leetcode-solutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Depth-First Search
 |  |
 | ------- |
