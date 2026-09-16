@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/amarald3142/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/amarald3142/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amarald3142/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/amarald3142/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/amarald3142/leetcode-solutions/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/amarald3142/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/amarald3142/leetcode-solutions/tree/master/3142-check-if-grid-satisfies-conditions) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/amarald3142/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/amarald3142/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1710-maximum-units-on-a-truck](https://github.com/amarald3142/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/amarald3142/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/amarald3142/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1710-maximum-units-on-a-truck](https://github.com/amarald3142/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amarald3142/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/amarald3142/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Backtracking
 |  |
 | ------- |
