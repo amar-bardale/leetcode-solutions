@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/amarald3142/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/amarald3142/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/amarald3142/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3993-maximum-value-of-an-alternating-sequence](https://github.com/amarald3142/leetcode-solutions/tree/master/3993-maximum-value-of-an-alternating-sequence) |
 ## Recursion
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/amarald3142/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amarald3142/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/amarald3142/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3993-maximum-value-of-an-alternating-sequence](https://github.com/amarald3142/leetcode-solutions/tree/master/3993-maximum-value-of-an-alternating-sequence) |
 ## Backtracking
 |  |
 | ------- |
