@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/amarald3142/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/amarald3142/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/amarald3142/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [4015-weighted-sum-of-a-tree](https://github.com/amarald3142/leetcode-solutions/tree/master/4015-weighted-sum-of-a-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/amarald3142/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/amarald3142/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1020-number-of-enclaves](https://github.com/amarald3142/leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [4015-weighted-sum-of-a-tree](https://github.com/amarald3142/leetcode-solutions/tree/master/4015-weighted-sum-of-a-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -247,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/amarald3142/leetcode-solutions/tree/master/0561-array-partition) |
+## Tree
+|  |
+| ------- |
+| [4015-weighted-sum-of-a-tree](https://github.com/amarald3142/leetcode-solutions/tree/master/4015-weighted-sum-of-a-tree) |
 <!---LeetCode Topics End-->
