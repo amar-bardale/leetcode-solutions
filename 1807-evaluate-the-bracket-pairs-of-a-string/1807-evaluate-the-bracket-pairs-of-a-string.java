@@ -1,0 +1,40 @@
+class Solution {
+    public String evaluate(String s, List<List<String>> knowledge) {
+
+        HashMap<String, String> map = new HashMap<>();
+
+        for(List<String> x : knowledge) {
+            map.put(x.get(0), x.get(1));
+        }
+
+        StringBuilder ans = new StringBuilder();
+
+        for(int i = 0; i < s.length(); i++) {
+
+            if(s.charAt(i) == '(') {
+
+                int start = i;
+                int ptr = i + 1;
+
+                while(s.charAt(ptr) != ')') {
+                    ptr++;
+                }
+
+                String key = s.substring(start + 1, ptr);
+
+                if(map.containsKey(key)) {
+                    ans.append(map.get(key));
+                } else {
+                    ans.append("?");
+                }
+
+                i = ptr;
+            }
+            else {
+                ans.append(s.charAt(i));
+            }
+        }
+
+        return ans.toString();
+    }
+}
