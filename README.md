@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/amarald3142/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/amarald3142/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/amarald3142/leetcode-solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/amarald3142/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/amarald3142/leetcode-solutions/tree/master/0200-number-of-islands) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/amarald3142/leetcode-solutions/tree/master/0078-subsets) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/amarald3142/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Linked List
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/amarald3142/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/amarald3142/leetcode-solutions/tree/master/0079-word-search) |
 ## String Matching
 |  |
