@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/amarald3142/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0904-fruit-into-baskets](https://github.com/amarald3142/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/amarald3142/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2615-sum-of-distances](https://github.com/amarald3142/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amarald3142/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/amarald3142/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amarald3142/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/amarald3142/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2155-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/amarald3142/leetcode-solutions/tree/master/2155-all-divisions-with-the-highest-score-of-a-binary-array) |
+| [2615-sum-of-distances](https://github.com/amarald3142/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/amarald3142/leetcode-solutions/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/amarald3142/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/amarald3142/leetcode-solutions/tree/master/3142-check-if-grid-satisfies-conditions) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amarald3142/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/amarald3142/leetcode-solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2485-find-the-pivot-integer](https://github.com/amarald3142/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
+| [2615-sum-of-distances](https://github.com/amarald3142/leetcode-solutions/tree/master/2615-sum-of-distances) |
 ## Memoization
 |  |
 | ------- |
