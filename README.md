@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/amarald3142/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/amarald3142/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/amarald3142/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/amarald3142/leetcode-solutions/tree/master/0079-word-search) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/amarald3142/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/amarald3142/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/amarald3142/leetcode-solutions/tree/master/0079-word-search) |
 ## String Matching
