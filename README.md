@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amarald3142/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/amarald3142/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1539-kth-missing-positive-number](https://github.com/amarald3142/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/amarald3142/leetcode-solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/amarald3142/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/amarald3142/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/amarald3142/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/amarald3142/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/amarald3142/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/amarald3142/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/amarald3142/leetcode-solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2485-find-the-pivot-integer](https://github.com/amarald3142/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amarald3142/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/amarald3142/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/amarald3142/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amarald3142/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/amarald3142/leetcode-solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2485-find-the-pivot-integer](https://github.com/amarald3142/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 ## Memoization
 |  |
