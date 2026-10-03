@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/amarald3142/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/amarald3142/leetcode-solutions/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/amarald3142/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/amarald3142/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/amarald3142/leetcode-solutions/tree/master/0079-word-search) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/amarald3142/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/amarald3142/leetcode-solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/amarald3142/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/amarald3142/leetcode-solutions/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/amarald3142/leetcode-solutions/tree/master/0216-combination-sum-iii) |
@@ -311,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/amarald3142/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/amarald3142/leetcode-solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
