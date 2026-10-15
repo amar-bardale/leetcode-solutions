@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/amarald3142/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0205-isomorphic-strings](https://github.com/amarald3142/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0355-design-twitter](https://github.com/amarald3142/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0387-first-unique-character-in-a-string](https://github.com/amarald3142/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/amarald3142/leetcode-solutions/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/amarald3142/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/amarald3142/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0149-max-points-on-a-line](https://github.com/amarald3142/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0198-house-robber](https://github.com/amarald3142/leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/amarald3142/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/amarald3142/leetcode-solutions/tree/master/0216-combination-sum-iii) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/amarald3142/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/amarald3142/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/amarald3142/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/amarald3142/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/amarald3142/leetcode-solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2485-find-the-pivot-integer](https://github.com/amarald3142/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amarald3142/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -352,4 +355,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/amarald3142/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/amarald3142/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/amarald3142/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/amarald3142/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
