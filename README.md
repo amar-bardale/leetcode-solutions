@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/amarald3142/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/amarald3142/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/amarald3142/leetcode-solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [2235-add-two-integers](https://github.com/amarald3142/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/amarald3142/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amarald3142/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/amarald3142/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
