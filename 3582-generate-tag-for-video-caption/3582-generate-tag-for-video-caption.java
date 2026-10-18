@@ -1,24 +1,36 @@
 class Solution {
     public String generateTag(String caption) {
-        if (caption.trim().isEmpty()) return "#";
 
-        String[] arr = caption.trim().split("\\s+");
-        String res = "#";
+        boolean capitalize = false;
 
-        String first_word = arr[0];
-        first_word = first_word.substring(0, 1).toLowerCase() +
-                     (first_word.length() > 1 ? first_word.substring(1).toLowerCase() : "");
-        res += first_word;
+        StringBuilder sb = new StringBuilder(100);
+        sb.append("#");
 
-        for (int i = 1; i < arr.length; i++) {
-            String w = arr[i];
-            if (w.isEmpty()) continue;
-            w = w.substring(0, 1).toUpperCase() +
-                (w.length() > 1 ? w.substring(1).toLowerCase() : "");
-            res += w;
-            if (res.length() >= 100) break;
+        for (int i = 0; i < caption.length(); i++) {
+
+            char ch = caption.charAt(i);
+
+            if (ch == ' ') {
+                capitalize = sb.length() > 1;
+                continue;
+            }
+
+            if (ch >= 'A' && ch <= 'Z') {
+                ch += 32;
+            }
+
+            if (capitalize) {
+                ch -= 32;
+                capitalize = false;
+            }
+
+            sb.append(ch);
+
+            if (sb.length() == 100) {
+                break;
+            }
         }
 
-        return res.length() > 100 ? res.substring(0, 100) : res;
+        return sb.toString();
     }
 }
