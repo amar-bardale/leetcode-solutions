@@ -1,29 +1,28 @@
 class Solution {
-    
     public int[] lastVisitedCell(char[][] grid) {
-        int n= grid.length;
-        int m=grid[0].length;
-        int[][] visited=new int[n][m];
-        int i=0,j=0;
-        while(visited[i][j] == 0){
-            int ni = i;
-            int nj = j;
-            visited[i][j]=1;
-            if(grid[i][j] =='R') nj++;
-            else if(grid[i][j] =='L') nj--;
-            else if(grid[i][j] =='D') ni++;
-            else if(grid[i][j] =='U') ni--;
-            if (ni < 0 || ni >= n || nj < 0 || nj >= m) {
-                break;
+        int m = grid.length;
+        int n = grid[0].length;
+        int r = 0, c = 0;
+
+        while (true) {
+            char dir = grid[r][c];
+            grid[r][c] = '#'; // Mark current cell visited
+
+            int nr = r;
+            int nc = c;
+
+            if (dir == 'U') nr--;
+            else if (dir == 'D') nr++;
+            else if (dir == 'L') nc--;
+            else if (dir == 'R') nc++;
+
+            // Check boundary or cycle before moving
+            if (nr < 0 || nr >= m || nc < 0 || nc >= n || grid[nr][nc] == '#') {
+                return new int[]{r, c};
             }
-            if (visited[ni][nj] == 1) {
-                break;
-            }
-            i = ni;
-            j = nj;
+
+            r = nr;
+            c = nc;
         }
-        
-        return new int[]{i, j};
-        
     }
 }
