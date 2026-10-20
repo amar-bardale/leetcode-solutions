@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/amarald3142/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0575-distribute-candies](https://github.com/amarald3142/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0904-fruit-into-baskets](https://github.com/amarald3142/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/amarald3142/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/amarald3142/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2615-sum-of-distances](https://github.com/amarald3142/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/amarald3142/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/amarald3142/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/amarald3142/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/amarald3142/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Array
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/amarald3142/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/amarald3142/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/amarald3142/leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/amarald3142/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amarald3142/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/amarald3142/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1539-kth-missing-positive-number](https://github.com/amarald3142/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
