@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/amarald3142/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/amarald3142/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/amarald3142/leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1030-matrix-cells-in-distance-order](https://github.com/amarald3142/leetcode-solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/amarald3142/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amarald3142/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/amarald3142/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/amarald3142/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/amarald3142/leetcode-solutions/tree/master/0542-01-matrix) |
 | [1020-number-of-enclaves](https://github.com/amarald3142/leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1030-matrix-cells-in-distance-order](https://github.com/amarald3142/leetcode-solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/amarald3142/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/amarald3142/leetcode-solutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Depth-First Search
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/amarald3142/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/amarald3142/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0204-count-primes](https://github.com/amarald3142/leetcode-solutions/tree/master/0204-count-primes) |
+| [1030-matrix-cells-in-distance-order](https://github.com/amarald3142/leetcode-solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/amarald3142/leetcode-solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2235-add-two-integers](https://github.com/amarald3142/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/amarald3142/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/amarald3142/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/amarald3142/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/amarald3142/leetcode-solutions/tree/master/0561-array-partition) |
+| [1030-matrix-cells-in-distance-order](https://github.com/amarald3142/leetcode-solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/amarald3142/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1710-maximum-units-on-a-truck](https://github.com/amarald3142/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/amarald3142/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -380,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/amarald3142/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+| [1030-matrix-cells-in-distance-order](https://github.com/amarald3142/leetcode-solutions/tree/master/1030-matrix-cells-in-distance-order) |
 ## Euclidean Algorithm
 |  |
 | ------- |
