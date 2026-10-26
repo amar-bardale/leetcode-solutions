@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/amarald3142/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/amarald3142/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1030-matrix-cells-in-distance-order](https://github.com/amarald3142/leetcode-solutions/tree/master/1030-matrix-cells-in-distance-order) |
+| [1254-number-of-closed-islands](https://github.com/amarald3142/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/amarald3142/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amarald3142/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/amarald3142/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/amarald3142/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/amarald3142/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1020-number-of-enclaves](https://github.com/amarald3142/leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/amarald3142/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/amarald3142/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/amarald3142/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/amarald3142/leetcode-solutions/tree/master/0542-01-matrix) |
 | [1020-number-of-enclaves](https://github.com/amarald3142/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1030-matrix-cells-in-distance-order](https://github.com/amarald3142/leetcode-solutions/tree/master/1030-matrix-cells-in-distance-order) |
+| [1254-number-of-closed-islands](https://github.com/amarald3142/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/amarald3142/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/amarald3142/leetcode-solutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/amarald3142/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/amarald3142/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/amarald3142/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1020-number-of-enclaves](https://github.com/amarald3142/leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/amarald3142/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/amarald3142/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [4015-weighted-sum-of-a-tree](https://github.com/amarald3142/leetcode-solutions/tree/master/4015-weighted-sum-of-a-tree) |
 ## Union-Find
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/amarald3142/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/amarald3142/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/amarald3142/leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/amarald3142/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/amarald3142/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sliding Window
 |  |
