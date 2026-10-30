@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/amarald3142/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0301-remove-invalid-parentheses](https://github.com/amarald3142/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/amarald3142/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/amarald3142/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/amarald3142/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/amarald3142/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/amarald3142/leetcode-solutions/tree/master/0709-to-lower-case) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/amarald3142/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/amarald3142/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0204-count-primes](https://github.com/amarald3142/leetcode-solutions/tree/master/0204-count-primes) |
+| [0412-fizz-buzz](https://github.com/amarald3142/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1030-matrix-cells-in-distance-order](https://github.com/amarald3142/leetcode-solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/amarald3142/leetcode-solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2235-add-two-integers](https://github.com/amarald3142/leetcode-solutions/tree/master/2235-add-two-integers) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/amarald3142/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/amarald3142/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3582-generate-tag-for-video-caption](https://github.com/amarald3142/leetcode-solutions/tree/master/3582-generate-tag-for-video-caption) |
 ## Binary Search
