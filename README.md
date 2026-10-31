@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/amarald3142/leetcode-solutions/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/amarald3142/leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/amarald3142/leetcode-solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1789-primary-department-for-each-employee](https://github.com/amarald3142/leetcode-solutions/tree/master/1789-primary-department-for-each-employee) |
 ## Divide and Conquer
 |  |
 | ------- |
